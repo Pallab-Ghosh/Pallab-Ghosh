@@ -10,9 +10,6 @@ I thrive on innovation, constantly exploring new technologies and methodologies 
 
 Feel free to explore my repositories, contribute to projects, or reach out for collaboration. Together, we can create something amazing!
 
----
-
-This section succinctly highlights your expertise, values, and openness to collaboration.
 
 
 ## 🔗 Links
