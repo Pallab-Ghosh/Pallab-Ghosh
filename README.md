@@ -1,5 +1,6 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallab-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="pallab-ghosh" /> </p>
 
+ <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 # Hi, I'm Pallab! 👋
 
@@ -8,6 +9,7 @@
 I'm a full stack developer...
 
 I'm a passionate and dedicated software engineer specializing in full-stack development with a strong emphasis on MERN stack and Next.js. With a background in Mechanical Engineering and a BTech in Computer Science and Engineering, I bring a unique blend of analytical thinking and technical expertise to every project.
+
 
 ## 🚀 What I Do
 
@@ -20,6 +22,8 @@ I'm a passionate and dedicated software engineer specializing in full-stack deve
 **Database Management**: Skilled in SQL and database design, ensuring efficient data handling and storage.
 
 **Java Programming**: Solid foundation in Java, used for backend development and software solutions.
+
+
 
 ## 🌟 Highlights
 **Skill Learning Academy**: Developed an LMS platform enabling users to purchase and complete courses, earning certificates upon completion.
