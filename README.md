@@ -1,5 +1,4 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallab-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="pallab-ghosh" /> </p>
-
  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 # Hi, I'm Pallab! 👋
@@ -9,6 +8,7 @@
 I'm a full stack developer...
 
 I'm a passionate and dedicated software engineer specializing in full-stack development with a strong emphasis on MERN stack and Next.js. With a background in Mechanical Engineering and a BTech in Computer Science and Engineering, I bring a unique blend of analytical thinking and technical expertise to every project.
+
 
 
 ## 🚀 What I Do
@@ -25,6 +25,7 @@ I'm a passionate and dedicated software engineer specializing in full-stack deve
 
 
 
+
 ## 🌟 Highlights
 **Skill Learning Academy**: Developed an LMS platform enabling users to purchase and complete courses, earning certificates upon completion.
 
@@ -32,10 +33,8 @@ I'm a passionate and dedicated software engineer specializing in full-stack deve
 
 **Fitness Training Studio Portal**: Built a comprehensive platform for fitness enthusiasts to access exercises, animations, and detailed data.
 ## 🔗 Links
- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Pallab-Ghosh/)
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Pallab-Ghosh/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/im-pallabghosh)
-
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@PGhosh798)
 
 
@@ -46,6 +45,7 @@ I'm a passionate and dedicated software engineer specializing in full-stack deve
 💬 **Ask me** about Frontend or Backend Technologies.I'm always excited to discuss and share knowledge on a wide range of topics, from the intricacies of React and Next.js to the depths of Node.js and database management.
 
 📫 **How to reach me**
+
 gpallab405@gmail.com
 
 https://www.linkedin.com/in/im-pallabghosh
