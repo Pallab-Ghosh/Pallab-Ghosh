@@ -21,7 +21,7 @@ I'm a passionate and dedicated software engineer specializing in full-stack deve
 
 **Database Management**: Skilled in SQL and database design, ensuring efficient data handling and storage.
 
-**Java Programming**: Solid foundation in Java, used for backend development and software solutions.
+**Java Programming**: Solid foundation in Java, used for backend development and software solutions. New Learner in this Language  
 
 
 
