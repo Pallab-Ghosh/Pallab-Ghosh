@@ -23,7 +23,7 @@ I'm a passionate and dedicated software engineer specializing in full-stack deve
 
 **Java Programming**: Solid foundation in Java, used for backend development and software solutions. New Learner in this Language  
 
-
+**Data structure and algorithms**: Strong foundation in Data structures and Algorithms
 
 
 ## 🌟 Highlights
