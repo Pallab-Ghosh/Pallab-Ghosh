@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a Full Stack Developer...
 
 I'm a passionate and dedicated software engineer specializing in full-stack development with a strong emphasis on MERN stack and Next.js. With a background in Mechanical Engineering and a BTech in Computer Science and Engineering, I bring a unique blend of analytical thinking and technical expertise to every project.
 
